@@ -3,7 +3,7 @@
 ## 📊 Overview
 This repository showcases an Excel-based project that analyzes e-commerce sales data. The project features a dashboard that provides **key insights** and highlights critical **performance metrics**, presented visually for easy interpretation.
 
-![Dashboard Preview](Final dashboard.png)
+[Dashboard Preview](Final dashboard.png)
 
 ---
 
